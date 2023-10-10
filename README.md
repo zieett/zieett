@@ -86,15 +86,14 @@
 </a>  
 </div
 </br>
-### Stats
+
+## Stats
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieett" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieett&layout=donut-vertical" />
 </a>
 </div>
 
-<br/>  
-
----
+<br/> 
 
 <br/>  
