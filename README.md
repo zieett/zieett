@@ -84,15 +84,17 @@
 <a href="https://gitlab.com/https://gitlab.com/zieett" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div
+</br>
+### Stats
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieett" />
+</a>
+</div>
 
 <br/>  
 
-<br/>  
-
-  
+---
 
 <br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
